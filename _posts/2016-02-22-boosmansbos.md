@@ -3,6 +3,8 @@ layout: post
 title: "Boosmansbos Circular Trail"
 description: "Walking the Boosmansbos circular trail."
 tags: [nature, nature reserve, hike, walking, multi-day trail]
+image:
+  feature: blogprofile.jpg
 ---
 
 So last weekend we decided to test our gear and get some training in as well. This involved lugging along backpacks filled with everything needed to be self-sufficient: tent, food, firstaid kit and the kitchen sink. Armed with a permit, we started off on a two day circular trail in the [Boosmansbos Wilderness Area](https://en.wikipedia.org/wiki/Boosmansbos_Wilderness_Area).
