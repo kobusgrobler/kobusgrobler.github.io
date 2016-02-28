@@ -1,6 +1,6 @@
 title:            Walking For Love
 description:      Walking the Appalacion Trail
-disqus_shortname: 
+disqus_shortname: walkgingforlove
 reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -29,7 +29,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-74400058-1  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
