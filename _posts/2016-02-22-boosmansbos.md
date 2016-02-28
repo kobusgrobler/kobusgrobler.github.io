@@ -39,7 +39,7 @@ The views were very rewarding and we soon lost track of time.
 If you look to your left your guide will point out to you Protea flowers in bloom... the stick is also used to clear the path of big bush spiders (and their webs) that often stradles the path.
 ![mountain flowers](https://lh3.googleusercontent.com/68XMl2IXM-JAgbWB5PJ4Y2SyWDzQ7bO4Y5OWwUdujcKw9_WjMU4mqnfurAH5vh_oGMfppO6tZqj5=w1267-h946-no)
 
-You will also notice that the sun is setting and we have some ways to go before we reach the "huts". The challenge about this hike is that some sections are very overgrown (looks like no one has been on this path for months), it's steep and rock-strewn. Definitely not something you want to tackle in the dark! So we had to scramble and there was no time to rest tired feet - but we made it just as it was getting really dark.
+You will also notice that the sun is setting and we have some ways to go before we reach the "huts". The challenge about this hike is that some sections are very overgrown (looks like no one has been on this path for months), it's steep and rock-strewn. Definitely not something you want to tackle in the dark! So we had to scramble and there was no time to rest tired feet - but we made it just as it was getting really dark, 17km and several hours later.
 
 ![mountain](https://lh3.googleusercontent.com/szAjdMrA6gEVJZ7sC-gZVpNxCN9oK2ytn6G_294lM7syHWvi-k0zvG0oR7PwxNROMX1n-OQsl0NU=w710-h947-no)
 
