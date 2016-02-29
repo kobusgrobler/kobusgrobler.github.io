@@ -17,8 +17,8 @@ If your'e asking Google to provide you with directions - don't bother. Navigate 
 Now if you're not Afrikaans or Dutch speaking, you might wonder about the meaning of "Grootvadersbosch" and "Boosmansbos". Shortly, "bos" or "bosch" means "woods" or "bush". A literal translation then would be "Big daddy's bush" for "Groot vaders bosch" and "Angry man's bush" for "Boos mans bos". Why "angry man"? History says that in the 1800's an old hermit lived here and became really upset when someone entered his domain. So there.
  
 
-
-Some photos from day 1 - walking uphill (mountains tend to be an uphill/downhill afair most of the time we soon realized) we took a lot of pictures of wild flowers.
+## Day 1
+Walking uphill (mountains tend to be an uphill/downhill afair most of the time we soon realized) we took a lot of pictures of wild flowers.
 
 ![flowers](https://lh3.googleusercontent.com/VTC6MBoEOuxMqaBwwl3e4pCkqwoMRYeKh1FWXM9ss0pFjquRUGGuPOpsuhrLdWgLXigpN5HFSv2_=w707-h946-no) 
 
@@ -43,4 +43,4 @@ You will also notice that the sun is setting and we have some ways to go before 
 
 ![mountain](https://lh3.googleusercontent.com/szAjdMrA6gEVJZ7sC-gZVpNxCN9oK2ytn6G_294lM7syHWvi-k0zvG0oR7PwxNROMX1n-OQsl0NU=w710-h947-no)
 
-Day 2 - to follow.
+## Day 2 - to follow.
