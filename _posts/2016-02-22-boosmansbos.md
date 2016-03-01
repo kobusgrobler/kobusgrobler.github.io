@@ -9,7 +9,7 @@ image:
 
 So last weekend we decided to test our gear and get some training in as well. This involved lugging along backpacks filled with everything needed to be self-sufficient: tent, food, firstaid kit and the kitchen sink. Armed with a permit, we started off on a two day circular trail in the [Boosmansbos Wilderness Area](https://en.wikipedia.org/wiki/Boosmansbos_Wilderness_Area).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d211872.38304827345!2d20.875934000000004!3d-33.92811199999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dd3e568811b03ed%3A0x3c70e88213ae1896!2sBoosmansbos+Wilderness+Area%2C+Breede+River+DC%2C+South+Africa!5e0!3m2!1sen!2sus!4v1456660323126" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d211872.38304827345!2d20.875934000000004!3d-33.92811199999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dd3e568811b03ed%3A0x3c70e88213ae1896!2sBoosmansbos+Wilderness+Area%2C+Breede+River+DC%2C+South+Africa!5e0!3m2!1sen!2sus!4v1456660323126" frameborder="0" style="border:0" allowfullscreen>
 </iframe>
 
 If your'e asking Google to provide you with directions - don't bother. Navigate to [Grootvadersbosch Nature Reserve](http://www.capenature.co.za/reserves/grootvadersbosch-nature-reserve/) which is adjacent to the Boosmansbos Wildernes Area. The difference is that there is a gravel road leading to Grootvadersbosch but to get to Boosmansbos you need to hike from the Grootvadersbosch entrance, up and around mountain or two before you get to see this bit of wilderness.
