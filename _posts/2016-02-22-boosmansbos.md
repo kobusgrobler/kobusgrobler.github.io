@@ -43,4 +43,28 @@ You will also notice that the sun is setting and we have some ways to go before 
 
 ![mountain](https://lh3.googleusercontent.com/szAjdMrA6gEVJZ7sC-gZVpNxCN9oK2ytn6G_294lM7syHWvi-k0zvG0oR7PwxNROMX1n-OQsl0NU=w710-h947-no)
 
-## Day 2 - to follow.
+## Day 2
+
+After a good night's rest and some breakfast the smiles were back! :smile:
+
+![smile](https://lh3.googleusercontent.com/-kg2ZEc_uSLo/VtH196iTv0I/AAAAAAAARKg/SOVvutNC110/s800-Ic42/IMG_1370.JPG)
+
+It's difficult to capture the majesty of this view in a photo. The flowers in the front is the Syncarpha eximia (Strawberry everlasting) and to the rear the mountains surrounding Boosmansbos.
+
+![boosmansbos](https://lh3.googleusercontent.com/-hbKP1Rajaok/VtH19x0ciNI/AAAAAAAARKg/RhRXiG0Sfqo/s800-Ic42/IMG_1379.JPG)
+
+Coming down the mountain and crossing the Duiwenhoks river the path is very overgrown and you can see that this remote part of the wilderness is rarely visited.
+
+![duwenhoks](https://lh3.googleusercontent.com/-hvcEEAIK8UM/VtH19-u8mEI/AAAAAAAARKg/uQ-gmpntNs4/s800-Ic42/IMG_1389.JPG)
+
+I wish we could spend some time in the river pools, but we had to rush to because the reserve gates closes at 6pm and we still had some distance to cover.
+![duiwenhoks2](https://lh3.googleusercontent.com/-_aZ4NvvtVcM/VtH19wcZXKI/AAAAAAAARKg/FmEn_twLarw/s800-Ic42/IMG_1395.JPG)
+
+![ravine](https://lh3.googleusercontent.com/-zmS_PQJjjiM/VtH19x8y5nI/AAAAAAAARKg/jQMNA-UEKfc/s800-Ic42/IMG_1399.JPG)
+
+It a was fun, challenging and overall satisfying trail - even if it did come at a cost.
+
+![voete](https://lh3.googleusercontent.com/-lyBIDbzlV0k/VtH192ED2BI/AAAAAAAARKg/Y-dZdqM5vA8/s640-Ic42/IMG_0384.JPG)
+
+
+

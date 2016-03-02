@@ -7,6 +7,10 @@ body {
 
 // Main
 // --------------------------------------------------
+a.charity {
+	color: white;	
+}
+
 .entry,
 .hentry {
 	@include clearfix;
