@@ -15,5 +15,3 @@ We establish ourselves at schools,  where we deliver professional  services 
 We build long-term relationships  and help
 individuals, their families and communities,
 **STEP UP**."
-
-
