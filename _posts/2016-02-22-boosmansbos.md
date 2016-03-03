@@ -4,7 +4,7 @@ title: "Boosmansbos Circular Trail"
 description: "Walking the Boosmansbos circular trail."
 tags: [nature, nature reserve, hike, walking, multi-day trail]
 image:
-  feature: blogprofile.jpg
+  feature: mountain.jpg
 ---
 
 So last weekend we decided to test our gear and get some training in as well. This involved lugging along backpacks filled with everything needed to be self-sufficient: tent, food, firstaid kit and the kitchen sink. Armed with a permit, we started off on a two day circular trail in the [Boosmansbos Wilderness Area](https://en.wikipedia.org/wiki/Boosmansbos_Wilderness_Area).
@@ -20,28 +20,28 @@ Now if you're not Afrikaans or Dutch speaking, you might wonder about the meanin
 ## Day 1
 Walking uphill (mountains tend to be an uphill/downhill afair most of the time we soon realized) we took a lot of pictures of wild flowers.
 
-![flowers](https://lh3.googleusercontent.com/VTC6MBoEOuxMqaBwwl3e4pCkqwoMRYeKh1FWXM9ss0pFjquRUGGuPOpsuhrLdWgLXigpN5HFSv2_=w707-h946-no) 
+![flowers](https://lh3.googleusercontent.com/-aEYOTn1_LY4/VtH1-Ekf38I/AAAAAAAARKg/p0hREbqxsWQ/s800-Ic42/IMG_0294.JPG) 
 
-![flowers](https://lh3.googleusercontent.com/kJsMG6n7ShdhqpcQ7-LhzBKjs8KBdgjpEfImDqHpO1tRWCcTitueiquQrCauYh3wytx67TO_wKJd=w707-h946-no)
+![flowers](https://lh3.googleusercontent.com/--a18RQaqVWk/VtH19y5WrTI/AAAAAAAARKg/D41Iz4Gjsic/s800-Ic42/IMG_0311.JPG)
 
-![flowers](https://lh3.googleusercontent.com/2d1R1qE8iCtHiI61VXg00lbjBQyCXghLdMxkR9QpUkuC-UIfkwxgUaqiu0B9HXpKGD43GRSob7Kv=w707-h946-no)
+![flowers](https://lh3.googleusercontent.com/-pge4Ea1lcAc/VtH19zeuUFI/AAAAAAAARKg/rGuhPTKcspg/s800-Ic42/IMG_0312.JPG)
 
 Here you can clearly see the remnants of a fire a while ago:
 
-![flowers](https://lh3.googleusercontent.com/VFlSor875GdfG8ROGKucMxYElmSsjdCQyAjnbY8e-JG6sUmeyqHPTG_E9AvyxbADEDNKArQ9OcNS=w707-h946-no)
+![flowers](https://lh3.googleusercontent.com/-ZuujaZ7hz9E/VtH19-gwRcI/AAAAAAAARKg/yv9JbD7CpI8/s800-Ic42/IMG_0318.JPG)
 
-![mountain](https://lh3.googleusercontent.com/lUXrroxPemgigC60Jqrqh-Cy7xAl0kWPtlPzJOVNt1d-Lh8xRGiC9r4GVhuimpRNvc-AvuRZWkt1=w1267-h946-no)
+![mountain](https://lh3.googleusercontent.com/-yqEz93rYVRA/VtH19yFlgsI/AAAAAAAARKg/uwS2QwjTsPk/s800-Ic42/IMG_0340.JPG)
 
 The views were very rewarding and we soon lost track of time.
 
-![mountain](https://lh3.googleusercontent.com/-h-Msm9wT_ehef8AXRjJDkNoyWl64Aedh0RZP8AeAltrxSPPnurKT3SRPf2mj-lvC7prVntlCIg0=w1262-h946-no)
+![mountain](https://lh3.googleusercontent.com/-djen24D1fvI/VtH19_wyWuI/AAAAAAAARKg/UvxRsVRpB9I/s800-Ic42/IMG_1358.JPG)
 
 If you look to your left your guide will point out to you Protea flowers in bloom... the stick is also used to clear the path of big bush spiders (and their webs) that often stradles the path.
-![mountain flowers](https://lh3.googleusercontent.com/68XMl2IXM-JAgbWB5PJ4Y2SyWDzQ7bO4Y5OWwUdujcKw9_WjMU4mqnfurAH5vh_oGMfppO6tZqj5=w1267-h946-no)
+![mountain flowers](https://lh3.googleusercontent.com/-KKdei5Scdyw/VtH193tYVcI/AAAAAAAARKg/SnH1mac8gdk/s800-Ic42/IMG_0369.JPG)
 
 You will also notice that the sun is setting and we have some ways to go before we reach the "huts". The challenge about this hike is that some sections are very overgrown (looks like no one has been on this path for months), it's steep and rock-strewn. Definitely not something you want to tackle in the dark! So we had to scramble and there was no time to rest tired feet - but we made it just as it was getting really dark, 17km and several hours later.
 
-![mountain](https://lh3.googleusercontent.com/szAjdMrA6gEVJZ7sC-gZVpNxCN9oK2ytn6G_294lM7syHWvi-k0zvG0oR7PwxNROMX1n-OQsl0NU=w710-h947-no)
+![mountain](https://lh3.googleusercontent.com/-plRlwZDTE8M/VtH19za0nQI/AAAAAAAARKg/bFoi1OT2Uqg/s800-Ic42/IMG_1365.JPG)
 
 ## Day 2
 
