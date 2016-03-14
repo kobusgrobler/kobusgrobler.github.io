@@ -5,6 +5,7 @@ image:
   feature: blogprofile.jpg
 comments: true
 modified: 2016-03-14
+id: about
 ---
 
 The Russian formalist Viktor Shklovsky described art as a tool through which you “may recover the sensation of life; it exists to make one feel things, to make the stone stony”. In a sense the journey we are embarking on serves the same purpose: to graze and pare down the calluses and corns gradually brought on by suburban routine, the rat race, the disappointments and general malaise that are inevitably part of life. By immersing ourselves in the strangeness, minimalism and simplicity of a backpacking trip through a section of North America, we hope to emerge again with a new eye – one sharpened to the point where we can again celebrate the stone as stony.
