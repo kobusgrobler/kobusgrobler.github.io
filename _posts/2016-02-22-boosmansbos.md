@@ -49,7 +49,7 @@ After a good night's rest and some breakfast the smiles were back! :smile:
 
 ![smile](https://lh3.googleusercontent.com/-kg2ZEc_uSLo/VtH196iTv0I/AAAAAAAARKg/SOVvutNC110/s800-Ic42/IMG_1370.JPG)
 
-It's difficult to capture the majesty of this view in a photo. The flowers in the front is the Syncarpha eximia (Strawberry everlasting) and to the rear the mountains surrounding Boosmansbos.
+It's difficult to capture the majesty of this view in a photo. The flowers in the front is the *Syncarpha Eximia* (Strawberry everlasting) and to the rear the mountains surrounding Boosmansbos.
 
 ![boosmansbos](https://lh3.googleusercontent.com/-hbKP1Rajaok/VtH19x0ciNI/AAAAAAAARKg/RhRXiG0Sfqo/s800-Ic42/IMG_1379.JPG)
 
