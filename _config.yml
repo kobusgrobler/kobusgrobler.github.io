@@ -31,7 +31,7 @@ background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-74400058-1  
-google_verify:      
+google_verify: 1DwRc-2ojUJx5IXG7HdIqjreHSoFCaedkEqxbvkJAYU     
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
