@@ -52,8 +52,8 @@ sass:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
-# Amount of post to show on home page
-paginate: 5
+# Amount of posts to show on home page
+paginate: 3
 
 kramdown:
   auto_ids: true
