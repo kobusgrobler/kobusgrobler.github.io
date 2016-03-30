@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "Jonkershoek"
-description: "Jonkershoek"
-tags: [nature, hike, walking, mountain]
-image:
+title: Jonkershoek
+description: Jonkershoek
+tags: 
+  - nature
+  - hike
+  - walking
+  - mountain
+image: 
   feature: mountain.jpg
   published: false
+published: true
 ---
+
 
 Sometimes you just really need a lazy breakfast... So off we went to Sweetwell: one of the few restaurants that show initiative when it comes to providing a varied and more than ample breakfast menu. However, such a royal breakfast inevitably leads to a resourceful discussion about the most sensible and productive way to spend the rest of the day. Eventually we wound up in Jonkershoek at high noon with all our gear along with a few teenagers armed with only water bottles. Familiar territory: no surprises or technical difficulties. Couldn’t help being reminded of one of those arid scenes in a Spaghetti Western as we stepped out on the dry 10km track still marred by the veld fires and with almost no trees left to provide shelter for two less than eager hikers in training. This was a day for logging kilometres and consequently for wandering thoughts. No inspiring photo moments beckoning during the first leg. Eventually we reached the bridge and plunked down in the shade. 
 
@@ -39,4 +45,3 @@ We passed a clump of waboom and enjoyed rewarding views of the mountain and the 
 Even spotted a perky yellow Erika to welcome us back after 13 kilometres in total. Not our most ambitious weekend for exercise, but we could congratulate ourselves for not succumbing to the comfort of air conditioning or the lure of an afternoon nap.
 
 ![Erika](https://lh3.googleusercontent.com/-yyHWz4lvuA4/VvThiWBgvWI/AAAAAAAApus/goqUsxFInGkaCEfSL3GMz0_zp8kkILYAgCCo/s640-Ic42/IMG_0672.JPG)
-
