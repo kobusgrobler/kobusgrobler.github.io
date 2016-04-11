@@ -1,6 +1,9 @@
 ---
 published: false
+layout: post
+description: AT Aproach trail
 ---
+
 
 ## Day 1 Wednesday
 
