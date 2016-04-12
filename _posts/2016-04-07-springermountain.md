@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Over Springer Mountain"
+image:
+  feature: mountain.jpg
+---
 ## Day 2 Thursday
 
 Our fellow campers were reasonably subdued by fog this morning. We were still figuring out our morning routine but wanted to get going. At first this didn't happen quick enough, but we eventually set off by 10am. Some way up the summit we meet a fellow hiker from New York who walks with feet-like shoes and is attempting to improve his previous time on the Appalachian. He walks at an impressive pace. By 10:45 we were on top of Springer Mountain (3782 feet): the beginning of the Appalachian Trail and of our first official section of about 50 km. The plaque describes the route as a footpath for "those who seek fellowship with the wilderness". We chose some tentative trail names to accompany our entries into the trail register: Kobus felt an affinity for "Silver" and as his trail buddy I became "Gold". (Maybe all those flecks of Mica on the trail?😄)
