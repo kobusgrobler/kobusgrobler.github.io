@@ -6,4 +6,4 @@ image:
   feature: mountain.jpg
 ---
 
-Currently in Franklin, NC - resting.
+Currently in Franklin, NC - resting, doing laundry and re-supplying.
