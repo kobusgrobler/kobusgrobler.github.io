@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whitleys Shelter"
+title: "Whitley's Shelter"
 image:
   feature: mountain.jpg
 ---
