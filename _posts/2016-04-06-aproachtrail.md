@@ -16,6 +16,8 @@ After Kobus found out that the taxi fare was around $80 the manager,  Shelby, of
 
 We signed in at the Amicalola Visitor Centre and walked out the back door through the arch at 1pm: meeting our first fellow hiker, Tim, who hiked all the way from Atlanta since 5'o clock that morning and had 21 days on the trail. We haven't seen him since. First highlight and a pretty spectacular one: the Amicalola Falls. Apparently the name is one of the last remnants of the Cherokee that once lived here. Just past the falls a young girl showed us a picture of a black bear she had taken on a neighbouring hill earlier that day. We had lunch at the top of the falls and proceeded on the quite scenic hike to Black Gap Shelter. 
 
+![2](https://lh3.googleusercontent.com/Ajjz6jJnOPhIDG6ob0zMto8v4QivQjgJc57MVIeUy6m2dgVXItLS1Ail74xDPdq3d1fH-S9dFCrtUA=w750-h1002-no)
+
 Eventually the flow of people tethered out along the route. The variation in vegetation became less: we saw some young Trillion plants with their purple centres and spotted leaves and some May Apples which reminded me of young papaya plants. Mostly the woods still looked wintry and grey with a carpet of decaying leaves and some mushrooms.
 
 We met a trail maintainer who advised us to always step over the log steps and not on top of them. One of my highlights of the day: he thinks we're from Alabama! This after neither the shop assistant in REI nor the Haitian Uber driver could understand what I was saying yesterday.
