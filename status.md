@@ -6,6 +6,4 @@ image:
   feature: mountain.jpg
 ---
 
-Currently in Franklin, NC - resting, doing laundry and re-supplying.
-
-Mile 106
+At Mile 106 in Franklin, NC - resting, doing laundry and re-supplying.
