@@ -7,3 +7,4 @@ image:
 ---
 
 At Mile 106 in Franklin, NC - resting, doing laundry and re-supplying.
+Oh - and updating the blog. Someday soon we'll upload more photos.
