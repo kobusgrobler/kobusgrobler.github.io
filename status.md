@@ -7,3 +7,5 @@ image:
 ---
 
 Currently in Franklin, NC - resting, doing laundry and re-supplying.
+
+Mile 106
