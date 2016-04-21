@@ -12,7 +12,8 @@ We were just in time for the last bacon and eggs and eventually lugged our backp
 
 After Kobus found out that the taxi fare was around $80 the manager,  Shelby, offered to give us a lift: she didn't think the driver had to overcharge us just because we had an accent. Off we went and soon we were listening to some old tunes and learning about the Dogwood with their white four petal flowers which blossom around Easter and the self explanatory Red bud trees. She pointed out the Wisteria covering a patch of trees in lilac splendor. 
 
-[1](https://lh3.googleusercontent.com/eIzBQCseywlVs8z3dNJMDwpSBhTfXGxMnwvvOl7zmvuLwMJrCWM51VAnKTxN9MMgEi0HA6JtcfzDvQ=w750-h564-no)
+![1](https://lh3.googleusercontent.com/eIzBQCseywlVs8z3dNJMDwpSBhTfXGxMnwvvOl7zmvuLwMJrCWM51VAnKTxN9MMgEi0HA6JtcfzDvQ=w750-h564-no)
+
 We signed in at the Amicalola Visitor Centre and walked out the back door through the arch at 1pm: meeting our first fellow hiker, Tim, who hiked all the way from Atlanta since 5'o clock that morning and had 21 days on the trail. We haven't seen him since. First highlight and a pretty spectacular one: the Amicalola Falls. Apparently the name is one of the last remnants of the Cherokee that once lived here. Just past the falls a young girl showed us a picture of a black bear she had taken on a neighbouring hill earlier that day. We had lunch at the top of the falls and proceeded on the quite scenic hike to Black Gap Shelter. 
 
 Eventually the flow of people tethered out along the route. The variation in vegetation became less: we saw some young Trillion plants with their purple centres and spotted leaves and some May Apples which reminded me of young papaya plants. Mostly the woods still looked wintry and grey with a carpet of decaying leaves and some mushrooms.
