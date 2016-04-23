@@ -6,5 +6,4 @@ image:
   feature: mountain.jpg
 ---
 
-At Mile 106 in Franklin, NC - resting, doing laundry and re-supplying.
-Oh - and updating the blog. Someday soon we'll upload more photos.
+At Mile 113, Siler's Bald. Thunderstorms and rain...
