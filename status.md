@@ -6,4 +6,4 @@ image:
   feature: mountain.jpg
 ---
 
-At Mile 113, Siler's Bald. Thunderstorms and rain...
+At Mile 127, Rocky Bald. Best view on earth.
