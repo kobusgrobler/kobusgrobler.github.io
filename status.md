@@ -6,4 +6,4 @@ image:
   feature: mountain.jpg
 ---
 
-At Mile 127, Rocky Bald. Best view on earth.
+At Mile 144, Sassafras Gap. Going to town (Robbinsville) tomorrow.
