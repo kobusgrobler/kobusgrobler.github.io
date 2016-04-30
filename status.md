@@ -6,4 +6,4 @@ image:
   feature: mountain.jpg
 ---
 
-At Mile 144, Sassafras Gap. Going to town (Robbinsville) tomorrow.
+At Mile 165, Fontana Dam. Starting with the Great Smoky National Park tomorrow.
