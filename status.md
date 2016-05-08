@@ -6,4 +6,4 @@ image:
   feature: mountain.jpg
 ---
 
-At Mile 165, Fontana Dam. Starting with the Great Smoky National Park tomorrow.
+At Mile 240, Standing bear farm.
